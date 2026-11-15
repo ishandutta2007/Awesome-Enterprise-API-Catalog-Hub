@@ -16,10 +16,14 @@ Contributions welcome! Open an PR to add/update entries. Keep descriptions factu
 
 ## Table of Contents
 - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global API management and developer portal market is estimated at **$8B–$11B**, projected to grow at a robust **16%–22% CAGR** to surpass **$30B+** over the next decade. The sector exhibits a **moderately concentrated, bifurcated structure**: major hyperscalers and legacy enterprise software giants (Google Cloud Apigee, Salesforce MuleSoft, Microsoft) command roughly 55%–62% of core infrastructure spend, while specialized API-first platforms and internal developer portals (Postman, Kong, Port, Backstage) capture a rapidly growing, fragmented share catering to multi-cloud cataloging and developer experience.
 
 ## SaaS/Hosted Platforms
 
