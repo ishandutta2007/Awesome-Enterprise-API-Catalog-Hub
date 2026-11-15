@@ -1,34 +1,54 @@
-# Awesome-Enterprise-API-Catalog-Hub
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Enterprise API Catalog &amp; Hub Banner" width="100%" />
+</p>
 
-## Top Enterprise API Catalog & Hub Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub?style=social&color=white" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on Developer Portals, Service Catalogs & API Discovery*  
-**Last updated: March 2026**
+# 🚀 Awesome Enterprise API Catalog & Hub 🌐
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Enterprise API Catalog & Hub**. These tools help organizations inventory their APIs, services, and ownership metadata—creating a searchable catalog that developers can use to discover reusable assets, understand dependencies, and follow platform standards.
+> 🌟 **A curated index of top-tier Enterprise API Catalogs, Internal Developer Portals (IDPs), Service Catalogs, and API Governance & Discovery Ecosystems — comparing SaaS platforms, market valuations, pricing models, and production-ready open-source projects.**
 
-**Examples** include Postman API Catalog, Spotify Backstage, Port, Cortex, OpsLevel, Kong Konnect, Axway Amplify, Apigee API Hub, and MuleSoft Anypoint Exchange (the category leaders).
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub/graphs/commit-activity)
+[![API Governance](https://img.shields.io/badge/Focus-API%20Governance%20%26%20Discovery-blue)](https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub)
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted developer portals, open-source service catalogs, and community-driven API discovery—ideal for platform teams seeking to avoid per-developer SaaS fees while maintaining full control over their internal developer portal. The open-source landscape has a clear leader: **Backstage** is the CNCF-incubated framework that Spotify open-sourced, and it remains the most widely adopted foundation for building a custom developer portal [citation:3].
+---
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Enterprise Platforms](#-saas--hosted-enterprise-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 Architectural Evaluation & Key Trade-offs](#-architectural-evaluation--key-trade-offs)
+- [📈 Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#-disclaimer)
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
-The global API management and developer portal market is estimated at **$8B–$11B**, projected to grow at a robust **16%–22% CAGR** to surpass **$30B+** over the next decade. The sector exhibits a **moderately concentrated, bifurcated structure**: major hyperscalers and legacy enterprise software giants (Google Cloud Apigee, Salesforce MuleSoft, Microsoft) command roughly 55%–62% of core infrastructure spend, while specialized API-first platforms and internal developer portals (Postman, Kong, Port, Backstage) capture a rapidly growing, fragmented share catering to multi-cloud cataloging and developer experience.
+The global **API Management and Developer Portal market** is estimated at **$8B–$11B**, projected to grow at a robust **16%–22% CAGR** to surpass **$30B+** over the next decade. 
 
-## SaaS/Hosted Platforms
+The sector exhibits a **moderately concentrated, bifurcated structure**:
+- 🏛️ **Concentrated Core (Enterprise Giants):** Major hyperscalers and legacy enterprise software giants (Google Cloud Apigee, Salesforce MuleSoft, Microsoft) command roughly **55%–62%** of core enterprise infrastructure spend.
+- 🧩 **Fragmented Edge (API-First & Portals):** Specialized API-first platforms and internal developer portals (Postman, Kong, Port, Spotify Backstage) capture a rapidly growing, fragmented share catering to multi-cloud cataloging, developer experience (DevEx), microservice ownership tracking, and agentic workflows.
 
-| Product | Company Size (Valuation / Revenue) | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-----------------------------------|-------------|-------------------|--------------------------|
+---
+
+## 🏢 SaaS & Hosted Enterprise Platforms
+
+Enterprise-ready hosted platforms providing turnkey API catalogs, developer experience portals, service catalogs, and API discovery engines. Sorted descending by company size (valuation / revenue).
+
+| 🏷️ Product | 🏛️ Company Size (Valuation / Revenue) | 📝 Description | 💳 Pricing (Starting) | 🎁 Free Tier / Trial Limits |
+|:---|:---|:---|:---|:---|
 | **[Apigee API Hub](https://cloud.google.com/apigee)** | **~$2.1T Market Cap** (Alphabet / Google Cloud ~$35B+ ARR) | Enterprise API catalog & governance tool within Google Cloud's Apigee suite. | Pay-as-you-go Base Environment: **$0.50/hour/region** (~$365/month + $20/1M proxy calls; API Hub features included at no extra charge) | **60-day free trial** (Apigee Evaluation tier sandbox environment) |
 | **[MuleSoft Anypoint Exchange](https://www.mulesoft.com/)** | **~$280B Market Cap** (Salesforce / MuleSoft ~$1.5B+ ARR) | Catalog of reusable APIs, connectors, and developer portals in Anypoint Platform. | Integration Starter: **$2,000/month** (billed annually at $24,000/year) | **30-day free trial** (full Anypoint Platform access; 30-day metric retention) |
 | **[Postman API Catalog](https://www.postman.com/)** | **$5.6B Valuation** (~$310M ARR) | Centralized view of APIs across teams with governance and discovery features. | Enterprise: **$49/user/month** (annual) | **Free forever**: 1 user only (10,000 API calls/month, 5 integrations); **30-day Enterprise trial** |
@@ -38,10 +58,14 @@ The global API management and developer portal market is estimated at **$8B–$1
 | **[Cortex](https://www.cortex.io/)** | **$470M Valuation** (Series C, ~$15M+ ARR) | Internal developer portal with service catalog, scorecards, and initiatives. | Baseline entry: **$39,000/year** (~$65/user/month for 50 users via AWS Marketplace) | **14-day to 30-day free trial** / custom PoC (available upon request via sales/marketplace) |
 | **[OpsLevel](https://www.opslevel.com/)** | **~$75M Valuation** (Series A, ~$5M-$10M ARR) | Internal developer portal with service catalog, scorecards, and campaigns. | Baseline entry: **$39/user/month** (annual contract; ~$46,800/year for 100 users) | **14-day to 30-day free trial** / custom PoC (available upon request via sales) |
 
-## Open-Source GitHub Projects
+---
 
-| Project | Star Badge | Description |
-|---------|------------|-------------|
+## 🔓 Open-Source GitHub Projects
+
+Self-hosted and community-driven API catalogs, gateways with portal capabilities, and documentation hubs. Sorted descending by GitHub stargazers count.
+
+| 📦 Project | ⭐ Star Badge | 📜 Description |
+|:---|:---|:---|
 | **[Kong Gateway](https://github.com/Kong/kong)** | [![Stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers) | **Cloud-Native API Gateway & Service Hub.** Apache-2.0. High-performance, Lua/Nginx-based API gateway connecting microservices, routing APIs, and offering native developer portal and service registry plugins. |
 | **[Backstage](https://github.com/backstage/backstage)** | [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | **The industry-standard open-source developer portal framework.** Apache-2.0, CNCF Incubating project created by Spotify. Centralized software catalog for microservices, APIs, libraries, TechDocs, and hundreds of community plugins. |
 | **[Swagger UI](https://github.com/swagger-api/swagger-ui)** | [![Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers) | **OpenAPI Interactive Documentation & Discovery.** Apache-2.0. The ubiquitous visualization tool that turns OpenAPI (Swagger) specifications into dynamic, interactive API discovery portals. |
@@ -53,24 +77,53 @@ The global API management and developer portal market is estimated at **$8B–$1
 | **[Apiman](https://github.com/apiman/apiman)** | [![Stars](https://img.shields.io/github/stars/apiman/apiman?style=social&color=white)](https://github.com/apiman/apiman/stargazers) | **Open-Source API Management & Catalog.** Apache-2.0. Lightweight API management and cataloging engine with policy enforcement, metrics, and developer management UI. |
 | **[Gravitee API Management](https://github.com/gravitee-io/gravitee-api-management)** | [![Stars](https://img.shields.io/github/stars/gravitee-io/gravitee-api-management?style=social&color=white)](https://github.com/gravitee-io/gravitee-api-management/stargazers) | **Event-Native API Management & Developer Portal.** Apache-2.0. Complete API management solution featuring an API catalog, developer portal, API publisher, and real-time streaming analytics. |
 
-**Frameworks for building custom systems**: **Backstage** is the only mature open-source foundation for an enterprise API catalog. It provides the catalog data model, plugin architecture, and TechDocs foundation—you supply the plugins and customization to match your organization's tooling. **Port** offers a faster SaaS alternative with a generous free tier (15 seats), but it is proprietary [citation:13].
+---
 
-## How to Contribute
+## 💡 Architectural Evaluation & Key Trade-offs
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- API catalogs and developer portals handle internal service metadata and ownership information; enforce access controls and avoid exposing sensitive architectural details to unauthorized users.
-- **Open-source API cataloging has one clear leader with a trade-off.** **Backstage is a framework, not a product**—it requires engineering investment to build and customize, but eliminates per-developer SaaS fees and gives you full control [citation:3]. **Port offers a faster path** with a free tier for up to 15 seats, but pricing scales at $30–$40/user/month and the platform is proprietary [citation:13]. **Cortex and OpsLevel are quote-only** with unconfirmed starting points (Cortex's ~$25/developer/month is modeled, not confirmed) [citation:14][citation:10]. **Enterprise API management platforms** (Kong, Axway, Apigee, MuleSoft) include catalog features but are priced for broader API management, not cataloging alone [citation:6][citation:7][citation:1]. **Validate whether you need a framework (Backstage) or a turnkey portal (Port)** based on your engineering capacity and timeline.
+- 🛠️ **Framework vs. Turnkey SaaS:** **Backstage** is a flexible framework requiring dedicated engineering investment to configure and maintain plugins, while turnkey SaaS offerings like **Port**, **Cortex**, or **OpsLevel** provide rapid time-to-value with managed scorecards and catalogs.
+- 🌐 **Full Gateway Suites vs. Catalog Hubs:** Hyperscalers (**Google Cloud Apigee**, **Salesforce MuleSoft**) and API gateways (**Kong**, **APISIX**) unify traffic routing, security policies, and catalog discovery under a single pane of glass, whereas standalone developer portals aggregate metadata across heterogeneous multi-cloud architectures.
+- 🔒 **Governance & Access Controls:** Enterprise API catalogs contain sensitive service topology and ownership metadata; enforce strict RBAC, automated syncs with CI/CD and Git, and audit logging.
 
 ---
 
-**Made for platform engineers, developer experience teams, and organizations building internal developer portals.**  
-Let's make enterprise API catalogs more open, discoverable, and developer-friendly.
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Enterprise-API-Catalog-Hub&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Enterprise-API-Catalog-Hub&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you so much for exploring and supporting **Awesome Enterprise API Catalog Hub**! ⭐
+
+If you find this repository valuable:
+- 🌟 **Star** this repository to help others discover it.
+- 🍴 **Fork** it and submit contributions or suggest new catalog solutions.
+- 📢 **Share** it with fellow platform engineers, architects, and DevOps practitioners.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support continued maintenance and curation of open developer resources, consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 How to Contribute
+
+1. 🍴 Fork the repository.
+2. 🌿 Create your feature branch (`git checkout -b feature/add-new-catalog`).
+3. 📝 Add or update entries in `README.md` following the existing format.
+4. 🔗 Include project name, official URL, concise description, and licensing/pricing details.
+5. 🚀 Submit a Pull Request with a clear explanation of additions.
+
+---
+
+## ⚖️ Disclaimer
+
+- 📌 This is an independent, community-curated list — not exhaustive and not an official corporate endorsement.
+- 🔐 API catalogs and developer portals handle internal service metadata and ownership information; always configure access controls and avoid exposing sensitive internal endpoints or credentials.
+- 📊 Market sizing and valuation figures are compiled from public regulatory filings, venture funding announcements, and industry research reports.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for platform engineers, developer experience teams, and enterprise architects.</b><br/>
+  <sub>Let's make enterprise API catalogs more open, discoverable, and developer-friendly.</sub>
+</p>
