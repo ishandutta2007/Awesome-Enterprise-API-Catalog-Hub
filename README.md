@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub?style=social&color=white" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Catalog-Hub/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,7 +64,7 @@ Enterprise-ready hosted platforms providing turnkey API catalogs, developer expe
 
 Self-hosted and community-driven API catalogs, gateways with portal capabilities, and documentation hubs. Sorted descending by GitHub stargazers count.
 
-| 📦 Project | ⭐ Star Badge | 📜 Description |
+| 📦 Project | ⭐ Stars_Badge | 📜 Description |
 |:---|:---|:---|
 | **[Kong Gateway](https://github.com/Kong/kong)** | [![Stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers) | **Cloud-Native API Gateway & Service Hub.** Apache-2.0. High-performance, Lua/Nginx-based API gateway connecting microservices, routing APIs, and offering native developer portal and service registry plugins. |
 | **[Backstage](https://github.com/backstage/backstage)** | [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | **The industry-standard open-source developer portal framework.** Apache-2.0, CNCF Incubating project created by Spotify. Centralized software catalog for microservices, APIs, libraries, TechDocs, and hundreds of community plugins. |
