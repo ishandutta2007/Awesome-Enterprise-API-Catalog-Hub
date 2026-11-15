@@ -1,6 +1,6 @@
 # Awesome-Enterprise-API-Catalog-Hub
 
-# Top Enterprise API Catalog & Hub Ecosystem
+## Top Enterprise API Catalog & Hub Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Developer Portals, Service Catalogs & API Discovery*  
