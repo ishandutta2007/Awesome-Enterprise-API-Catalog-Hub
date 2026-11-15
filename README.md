@@ -15,6 +15,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
@@ -24,14 +25,14 @@ Contributions welcome! Open an PR to add/update entries. Keep descriptions factu
 
 | Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
 |---------|-------------|-------------------|--------------------------|
-| **[Postman API Catalog](https://www.postman.com/)** | API catalog within Postman Enterprise plan. Provides a centralized view of APIs across teams with governance and discovery features. Included with Enterprise tier alongside private API networks and advanced RBAC [citation:12]. | Enterprise: **$800/user/month** (annual); Team: $400/user/month [citation:2] | **Free**: 1 user only; **30-day Enterprise trial** available [citation:2] |
-| **[Port](https://www.port.io/)** | Internal developer portal with software catalog, self-service actions, and scorecards. Positioned as a more opinionated, faster-to-deploy alternative to Backstage. **Free plan: up to 15 seats** with 10K entities and 400 runs [citation:13]. | Free: **$0** (15 seats); Basic: **$30/user/month**; Standard: **$40/user/month**; Enterprise: custom [citation:4][citation:13] | **Free forever**: 15 seats, 10K entities, 400 runs, usage-limited AI agents [citation:13] |
-| **[Cortex](https://www.cortex.io/)** | Internal developer portal with service catalog, scorecards, and initiatives. **Pricing is contact-sales only**—no published rate card. Third-party listings suggest a starting point around **~$25/developer/month**, but this is unconfirmed [citation:14]. | Quote-only (contact sales) | No confirmed free tier; demos via sales [citation:14] |
-| **[OpsLevel](https://www.opslevel.com/)** | Internal developer portal with service catalog, scorecards, and campaigns. **Priced per developer** using the portal; volume discounts available. Custom pricing via sales [citation:10]. | Quote-only (per-developer) | No free tier; demo via sales [citation:10] |
-| **[Kong Konnect](https://konghq.com/)** | API management platform with service catalog capabilities. **Plus plan: usage-based** with 1M requests included monthly; Enterprise: contract-based with 24/7 support [citation:6][citation:15]. | Plus: usage-based (1M requests included); Enterprise: quote-only | **30-day trial** with free credits [citation:6] |
-| **[Axway Amplify Engage](https://www.axway.com/)** | API catalog and marketplace for discovering, classifying, and managing API assets. **Engage tier: 5 assets / 10 subscriptions minimum**; priced by API assets and marketplace subscriptions [citation:7]. | Quote-only (asset/subscription-based) | No free tier; demo via sales |
-| **[Apigee API Hub](https://cloud.google.com/apigee)** | API catalog within Google Cloud's Apigee platform. **No additional charges for API Hub utilization** as of its GA feature set—included with Apigee subscription [citation:8]. | Included with Apigee (consumption-based API management) | No standalone free tier; Apigee evaluation available |
-| **[MuleSoft Anypoint Exchange](https://www.mulesoft.com/)** | Catalog of reusable assets, developer portals, and MCP server publishing. **Shares a credit pool** with MuleSoft's gateway, manager, and integrations—suitable for API programs with many internal consumers [citation:1][citation:11]. | Quote-only (shared Mule credits) | **30-day Agent Fabric trial** (no credit card) [citation:1] |
+| **[Postman API Catalog](https://www.postman.com/)** | Centralized view of APIs across teams with governance and discovery features. | Enterprise: **$49/user/month** (annual) | **Free forever**: 1 user only (10,000 API calls/month, 5 integrations); **30-day Enterprise trial** |
+| **[Port](https://www.port.io/)** | Internal developer portal with software catalog, self-service actions, and scorecards. | Basic: **$30/user/month** (annual) | **Free forever**: 15 seats, 10,000 entities, 400 runs/month |
+| **[Cortex](https://www.cortex.io/)** | Internal developer portal with service catalog, scorecards, and initiatives. | Baseline entry: **$39,000/year** (~$65/user/month for 50 users via AWS Marketplace) | **14-day to 30-day free trial** / custom PoC (available upon request via sales/marketplace) |
+| **[OpsLevel](https://www.opslevel.com/)** | Internal developer portal with service catalog, scorecards, and campaigns. | Baseline entry: **$39/user/month** (annual contract; ~$46,800/year for 100 users) | **14-day to 30-day free trial** / custom PoC (available upon request via sales) |
+| **[Kong Konnect](https://konghq.com/)** | API lifecycle management and service catalog with multi-cloud control planes. | Plus tier: **$25/month** (Serverless Control Plane; includes 1M requests/month) | **30-day full Enterprise free trial** (unlimited trial evaluation, 30-day analytics retention) |
+| **[Axway Amplify Engage](https://www.axway.com/)** | API catalog and enterprise marketplace for discovering and governing API assets. | Minimum entry package: **5 Assets / 10 Subscriptions** (Enterprise contract-based quote) | **30-day guided trial / evaluation PoC** (available upon request via sales) |
+| **[Apigee API Hub](https://cloud.google.com/apigee)** | Enterprise API catalog & governance tool within Google Cloud's Apigee suite. | Pay-as-you-go Base Environment: **$0.50/hour/region** (~$365/month + $20/1M proxy calls; API Hub features included at no extra charge) | **60-day free trial** (Apigee Evaluation tier sandbox environment) |
+| **[MuleSoft Anypoint Exchange](https://www.mulesoft.com/)** | Catalog of reusable APIs, connectors, and developer portals in Anypoint Platform. | Integration Starter: **$2,000/month** (billed annually at $24,000/year) | **30-day free trial** (full Anypoint Platform access; 30-day metric retention) |
 
 ## Open-Source GitHub Projects
 
